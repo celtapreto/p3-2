@@ -6,67 +6,167 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Qual sua cor preferida?",
         alternativas: [
             {
-                texto: "Texto 1.1",
-                afirmacao: "Afirmação 1.1"
+                texto: "Preto",
+                afirmacao: "DPS"
             },
             {
-                texto: "Texto 1.2",
-                afirmacao: "Afirmação 1.2"
+                texto: "Azul",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Vermelho",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "Roxo",
+                afirmacao: "Suporte"
+            }
+            {
+                texto: "Verde",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Rosa",
+                afirmacao: "Suporte"
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Qual seu estilo de música preferido?",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: "Rock/Metal",
+                afirmacao: "DPS"
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: "POP",
+                afirmacao: "Suporte"
+            }
+            {
+                texto: "Rap/trap",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "MPB",
+                afirmacao: "Suporte"
+            }
+            {
+                texto: "Eletrônica",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "Sertanejo",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Funk",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Pagode",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "K-POP",
+                afirmacao: "Suporte"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Qual seu membro favorito do BTS?",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: "Jimin",
+                afirmacao: "Suporte"
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "Jungkook",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "RM",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "V",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "Suga",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Jin",
+                afirmacao: "Suporte"
+            }
+            {
+                texto: "J-Hope",
+                afirmacao: "Suporte"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "Dessas modalidades, qual a sua favorita?",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "Vôlei",
+                afirmacao: "Suporte"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: "Basquete",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "Futebol",
+                afirmacao: "Tank"
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "Qual sua matéria preferida?",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "Química",
+                afirmacao: "Suporte"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "Biologia",
+                afirmacao: "Suporte"
+            }
+            {
+                texto: "Física",
+                afirmacao: "Suporte"
+            }            
+            {
+                texto: "Matemática",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Português",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Filosofia",
+                afirmacao: "Tank"
+            }
+            {
+                texto: "Sociologia",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "Geografia",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "História",
+                afirmacao: "DPS"
+            }
+            {
+                texto: "Arte",
+                afirmacao: "Suporte"
             }
         ]
     },
