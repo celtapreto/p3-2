@@ -15,19 +15,19 @@ const perguntas = [
             {
                 texto: "Azul",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Vermelho",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "Roxo",
                 afirmacao: "Suporte"
-            }
+            },
             {
                 texto: "Verde",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Rosa",
                 afirmacao: "Suporte"
@@ -44,31 +44,31 @@ const perguntas = [
             {
                 texto: "POP",
                 afirmacao: "Suporte"
-            }
+            },
             {
                 texto: "Rap/trap",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "MPB",
                 afirmacao: "Suporte"
-            }
+            },
             {
                 texto: "Eletrônica",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "Sertanejo",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Funk",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Pagode",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "K-POP",
                 afirmacao: "Suporte"
@@ -85,23 +85,23 @@ const perguntas = [
             {
                 texto: "Jungkook",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "RM",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "V",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "Suga",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Jin",
                 afirmacao: "Suporte"
-            }
+            },
             {
                 texto: "J-Hope",
                 afirmacao: "Suporte"
@@ -118,7 +118,7 @@ const perguntas = [
             {
                 texto: "Basquete",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "Futebol",
                 afirmacao: "Tank"
@@ -135,35 +135,35 @@ const perguntas = [
             {
                 texto: "Biologia",
                 afirmacao: "Suporte"
-            }
+            },
             {
                 texto: "Física",
                 afirmacao: "Suporte"
-            }            
+            },           
             {
                 texto: "Matemática",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Português",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Filosofia",
                 afirmacao: "Tank"
-            }
+            },
             {
                 texto: "Sociologia",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "Geografia",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "História",
                 afirmacao: "DPS"
-            }
+            },
             {
                 texto: "Arte",
                 afirmacao: "Suporte"
