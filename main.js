@@ -228,7 +228,7 @@ function respostaSelecionada(opcaoSelecionada) {
 function mostraResultado() {
     caixaPerguntas.textContent = "De acordo com suas respostas, esta é a sua role:"; //Define o conteúdo de texto do elemento caixaPerguntas para informar o usuário sobre o resultado.
     textoResultado.textContent = historiaFinal; //Define o conteúdo de texto do elemento textoResultado como a narrativa final acumulada.
-    caixaAlternativas.textContent = ""; // Limpa o conteúdo do elemento caixaAlternativas.
+    caixaAlternativas.textContent = "sdfsdg"; // Limpa o conteúdo do elemento caixaAlternativas.
 }
 
 mostraPergunta(); //Chama a função mostraPergunta para iniciar o questionário exibindo a primeira pergunta.
