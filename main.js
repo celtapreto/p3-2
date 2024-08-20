@@ -170,6 +170,23 @@ const perguntas = [
             }
         ]
     },
+    {
+        enunciado: "Você é amostradinho?",
+        alternativas: [
+            {
+                texto: "Muitooo",
+                afirmacao: "Suporte"
+            },
+            {
+                texto: "Não",
+                afirmacao: "DPS"
+            },
+            {
+                texto: "La ele",
+                afirmacao: "Tank"
+            }
+        ]
+    },
 ];
 
 //Declaração de variáveis
