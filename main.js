@@ -219,7 +219,7 @@ function mostraAlternativas(){
 //Essa função tem como objetivo processar a resposta selecionada, atualizar a narrativa final e avançar para a próxima pergunta.
 function respostaSelecionada(opcaoSelecionada) {
     const afirmacoes = opcaoSelecionada.afirmacao; //Obtém a afirmação associada à alternativa selecionada.
-    historiaFinal += afirmacoes + ""; //Adiciona a afirmação à historiaFinal.
+    historiaFinal += afirmacoes + " "; //Adiciona a afirmação à historiaFinal.
     atual++; //Incrementa o índice da pergunta atual.
     mostraPergunta(); //Chama a função mostraPergunta para exibir a próxima pergunta.
 }
